@@ -35,6 +35,11 @@ To exit the application, right-click the tray icon and select **Exit**.
 - If SumatraPDF is closed, Camel stays idle in the system tray
 - Only the window title is read — no files are accessed
 
+### Antivirus Notice
+
+This executable may be flagged by some antivirus software as a false positive.
+The source code is fully available in this repository for inspection.
+
 ## Manual Build
 
 If you prefer to build it yourself:
