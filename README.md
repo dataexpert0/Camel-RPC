@@ -21,7 +21,7 @@ The application runs silently in the background and remains accessible only thro
 ## Usage
 
 1. Download the executable from the **Releases** section
-2. Run `Camel-SumatraRPC.exe`
+2. Run `camel.exe`
 3. A camel icon will appear in the system tray
 4. Open a PDF in SumatraPDF
 5. Discord Rich Presence updates automatically
