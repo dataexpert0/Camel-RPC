@@ -40,6 +40,10 @@ To exit the application, right-click the tray icon and select **Exit**.
 This executable may be flagged by some antivirus software as a false positive.
 The source code is fully available in this repository for inspection.
 
+## Acknowledgements
+
+This project is inspired by the idea behind [_Chilong_](https://github.com/MechaDragonX/Chilong), made by MechaDragonX.
+
 ## Manual Build
 
 If you prefer to build it yourself:
